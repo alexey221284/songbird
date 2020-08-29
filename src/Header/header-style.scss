@@ -1,7 +1,7 @@
 .main {
     width: 100px;
     height: 100px;
-    background-color: red;
+    background-color: orange;
 }
 .header {
   padding-top: 30px;
@@ -13,13 +13,13 @@
     font-size: 46px;
     font-weight: 400;
     & span {
-      color: #00bc8c;
+      color: orange;
     }
   }
   &__score {
     font-size: 22px;
     .score__value {
-      color: #00bc8c;
+      color: orange;
     }
   }
 }

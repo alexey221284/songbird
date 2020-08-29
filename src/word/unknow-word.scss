@@ -47,16 +47,16 @@
     background-color: #fff;
   }
   .rhap_volume-indicator {
-    background-color: #00bc8c;
+    background-color: orange;
   }
   .rhap_progress-bar  {
     background-color: #fff;
   }
   .rhap_progress-indicator {
-    background-color: #00bc8c;
+    background-color: orange;
   }
   .rhap_progress-filled {
-    background: linear-gradient(90deg, #00C9FF 0%, #92FE9D 100%);
+    background: linear-gradient(90deg, orange 0%, white 100%);
   }
   .rhap_progress-container,
   .rhap_volume-button,
@@ -65,7 +65,7 @@
     outline: none;
   }
   path {
-    fill: #00bc8c;
+    fill: orange;
   }
 }
 
